@@ -6,5 +6,11 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+
+    //Indeed Chat
+    <color name="Color_primary">#60B1D6</color>
+    <color name="Color_primaryDark">#5297B6</color>
+    <color name="BG_Color">#E4E4E4</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="fb_color">#3F5A95</color>
 </resources>
