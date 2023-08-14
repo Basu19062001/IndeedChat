@@ -13,4 +13,5 @@
     <color name="BG_Color">#E4E4E4</color>
     <color name="white">#FFFFFFFF</color>
     <color name="fb_color">#3F5A95</color>
+    <color name="text_hint_color">#B1A9A9</color>
 </resources>

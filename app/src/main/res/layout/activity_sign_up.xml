@@ -32,35 +32,38 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp"
             android:layout_marginBottom="10dp"
+            android:autofillHints=""
             android:background="@color/white"
             android:ems="10"
             android:hint="@string/user_name"
             android:inputType="textPersonName"
             android:padding="13dp"
-            android:autofillHints="" />
+            android:textColorHint="@color/text_hint_color" />
 
         <EditText
             android:id="@+id/edtSignUpEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
+            android:autofillHints=""
             android:background="@color/white"
             android:ems="10"
             android:hint="@string/email"
             android:inputType="textEmailAddress"
             android:padding="13dp"
-            android:autofillHints="" />
+            android:textColorHint="@color/text_hint_color" />
 
         <EditText
             android:id="@+id/edtSignUpPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:autofillHints=""
             android:background="@color/white"
             android:ems="10"
             android:hint="@string/password"
             android:inputType="textPassword"
             android:padding="13dp"
-            android:autofillHints="" />
+            android:textColorHint="@color/text_hint_color" />
 
         <TextView
             android:id="@+id/txtAlreadyHaveAcc"
