@@ -101,7 +101,8 @@
                 android:padding="13dp"
                 android:text="@string/google"
                 android:textAllCaps="false"
-                android:textColor="@color/black" />
+                android:textColor="@color/black"
+                android:textSize="17sp" />
 
             <Button
                 android:id="@+id/btnSignUpFacebook"
@@ -116,7 +117,8 @@
                 android:padding="13dp"
                 android:text="@string/facebook"
                 android:textAllCaps="false"
-                android:textColor="@color/white" />
+                android:textColor="@color/white"
+                android:textSize="17sp" />
         </LinearLayout>
 
         <TextView
